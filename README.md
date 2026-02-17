@@ -1674,7 +1674,7 @@ BASE_URL=<your_kloudless_api_server_url> npm run build
 ```
 
 Variable Name | Purpose | Default
-----|---|---
+
 BASE_URL | URL to Kloudless API Server | https://api.kloudless.com
 SCHEDULER_PATH | URL for the scheduler page | https://static-cdn.kloudless.com/p/platform/scheduler/index.html
 SCHEDULE_URL | Default schedule URL | https://kloudl.es/m/MEETING_WINDOW_ID
